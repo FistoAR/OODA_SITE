@@ -175,3 +175,8 @@ const demobtn = document.querySelector('.nav-button');
 demobtn.addEventListener('click', () => {
   window.location.href = '../contact/index.html#contactSection';
 });
+
+const logo = document.querySelector('.logo');
+logo.addEventListener('click', () => {
+  window.location.href = "../homepage"; 
+});
