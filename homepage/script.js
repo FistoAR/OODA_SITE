@@ -711,7 +711,7 @@ gsap.utils.toArray(".new-why-choose-sec-card").forEach((card, i) => {
     scrollTrigger: {
       trigger: card,
       start: "top 85%",
-      toggleActions: "play reverse play reverse"
+      toggleActions: "play none none none"
     },
     y: 50,
     opacity: 0,
