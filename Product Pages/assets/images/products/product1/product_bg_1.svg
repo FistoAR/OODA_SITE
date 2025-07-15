@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 677" width="1024" height="677">
+	<title>ooda 1024x677 </title>
+	<defs>
+		<image width="1830" height="1238" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTE1IiBoZWlnaHQ9IjYxOSIgdmlld0JveD0iMCAwIDkxNSA2MTkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHg9IjAuMDc4MTI1IiB5PSIwLjc1NzgxMiIgd2lkdGg9IjkxMy45ODQiIGhlaWdodD0iNjE4LjAzMiIgcng9IjM5LjQxNzEiIGZpbGw9IiMyQTJBMkEiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="black_bg" href="#img1" transform="matrix(.561,0,0,.55,0,-2.661)"/>
+</svg>
